@@ -1,6 +1,6 @@
 # Intercampus en vivo — UDLA
 
-Proyecto de **ISWZ2102 Programación III** (Ingeniería de Software, UDLA).
+Proyecto de **ISWZ2102 Programación III** (Ingeniería de Inteligencia Artificial, UDLA).
 Prototipo en Java del motor de una app que informa a los estudiantes **cuándo llega el bus Intercampus** a su parada, al estilo de la app Transit.
 
 > Estado: **Progreso 1**. Diseño de la solución con estructuras de datos y algoritmos implementados y probados en consola. La red de paradas, los tiempos y las capacidades son **datos de ejemplo**; deben reemplazarse por los del servicio real.
